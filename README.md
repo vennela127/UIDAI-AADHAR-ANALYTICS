@@ -1,7 +1,6 @@
-UIDAI Aadhaar Analytics
-
+**UIDAI Aadhaar Analytics**
 Unlocking Societal Trends, Anomalies, and Predictive Indicators in Aadhaar Enrolment and Updates
-Project Overview
+**Project Overview**
 
 This project presents an end-to-end analytical framework to study India’s Aadhaar ecosystem using official UIDAI datasets. The focus is on transforming large-scale enrolment, demographic update, and biometric activity data into actionable intelligence that supports informed decision-making, fraud prevention, and proactive operational planning.
 
