@@ -1,14 +1,18 @@
 **UIDAI Aadhaar Analytics**
+
 Unlocking Societal Trends, Anomalies, and Predictive Indicators in Aadhaar Enrolment and Updates
 **Project Overview**
+
 
 This project presents an end-to-end analytical framework to study India’s Aadhaar ecosystem using official UIDAI datasets. The focus is on transforming large-scale enrolment, demographic update, and biometric activity data into actionable intelligence that supports informed decision-making, fraud prevention, and proactive operational planning.
 
 The analysis highlights how Aadhaar has transitioned from a rapid growth system to a maintenance-driven national digital infrastructure, driven by demographic updates, biometric corrections, and regional imbalances.
 
-Objectives
+**Objectives**
 
-The primary objectives of this project are to:
+
+**The primary objectives of this project are to:**
+
 
 Identify meaningful patterns and long-term trends in Aadhaar enrolment and update activity
 
@@ -20,23 +24,26 @@ Forecast future Aadhaar demand with uncertainty awareness
 
 Translate analytical findings into practical, policy-oriented solution frameworks
 
-Datasets Used
+**Datasets Used**
 
-The analysis is based on three official UIDAI datasets:
 
-1. Aadhaar Enrolment Dataset
+**The analysis is based on three official UIDAI datasets:**
+
+**1. Aadhaar Enrolment Dataset**
+
 
 New enrolments across age groups (0–5, 5–17, 18+)
 
 State-wise and time-wise enrolment distribution
 
-2. Demographic Update Dataset
+**2. Demographic Update Dataset**
+
 
 Name, address, and demographic corrections
 
 Age-linked update behaviour reflecting migration and lifecycle changes
 
-3. Biometric Update Dataset
+**3. Biometric Update Dataset**
 
 Fingerprint and iris updates
 
@@ -44,9 +51,10 @@ Age-related biometric volatility and failure patterns
 
 All datasets are processed from raw CSV files extracted from UIDAI-provided ZIP archives.
 
-Methodology
+**Methodology**
 
-The analytical pipeline follows a structured, data-driven approach:
+
+**The analytical pipeline follows a structured, data-driven approach:**
 
 Data Preprocessing
 
@@ -82,7 +90,8 @@ Identification of peak load months and capacity stress periods
 
 Forecast uncertainty used as a risk-aware planning signal
 
-Key Insights and Findings
+**Key Insights and Findings**
+
 Lifecycle Shift in Aadhaar Activity
 
 Adult (18+) enrolments show clear signs of saturation
@@ -131,9 +140,11 @@ Forecast uncertainty increases during volatile phases
 
 Enables proactive staffing and infrastructure planning
 
-Proposed Solution Framework
+**Proposed Solution Framework**
 
-Based on analytical evidence, the project proposes the following interventions:
+
+**Based on analytical evidence, the project proposes the following interventions:**
+
 
 Fraud and Duplication Prevention
 
@@ -173,9 +184,11 @@ High demographic update volumes driven by migration and lifecycle changes
 
 Reactive operational planning caused by delayed anomaly detection
 
-Visualisations
+**Visualisations**
 
-The project includes a comprehensive set of visualisations, such as:
+
+**The project includes a comprehensive set of visualisations, such as:**
+
 
 Lifecycle shift index charts
 
@@ -191,7 +204,8 @@ Demand forecasts with confidence intervals and risk indicators
 
 All visualisations are generated using Python-based analytical libraries.
 
-Tools and Technologies
+**Tools and Technologies**
+
 
 Python
 
